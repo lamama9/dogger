@@ -1,0 +1,10 @@
+{
+  "app": "dogger",
+  "version": "0.3.48",
+  "baseUrl": "/dogger",
+  "builtAt": "2026-09-28T10:39:23.185Z",
+  "commit": "87445bd9ab8d36a10238d4ab6276781558844525",
+  "dirty": true,
+  "sourceTreeHash": "40c603e3dad19d13b93e7901cafd9f1583ce146531fa7410d6efa2e148c1d523",
+  "sourceFileCount": 452
+}
