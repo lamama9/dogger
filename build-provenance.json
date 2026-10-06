@@ -1,10 +1,10 @@
 {
-  "app": "dogger",
-  "version": "0.3.49",
+  "app": "חברזנב",
+  "version": "0.3.55",
   "baseUrl": "/dogger",
-  "builtAt": "2026-09-30T06:39:47.418Z",
-  "commit": "87445bd9ab8d36a10238d4ab6276781558844525",
-  "dirty": true,
-  "sourceTreeHash": "38abeea3c6347393ba4dbd174111054e117d291e32b6e2ed781d2dfad864922c",
-  "sourceFileCount": 485
+  "builtAt": "2026-10-06T14:35:47.343Z",
+  "commit": "d5b216aaee100a0e4598a3a43e5461795bf3416e",
+  "dirty": false,
+  "sourceTreeHash": "400aa05981b23448b16b10c96a55bffa35c3470975013b924dd8ed169139b640",
+  "sourceFileCount": 494
 }
